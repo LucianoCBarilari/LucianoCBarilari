@@ -1,5 +1,7 @@
 # Hi I'm Luciano Castillo
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-lucianocastillo.net-blue?style=for-the-badge)](https://lucianocastillo.net)
+
 Backend-focused Software Engineer with 3.8+ years of experience building web applications and APIs with C# and .NET.
 
 ## Tech Stack
