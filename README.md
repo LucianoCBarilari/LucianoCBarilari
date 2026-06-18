@@ -38,7 +38,6 @@ Backend-focused Software Engineer with 3.8+ years of experience building web app
 * OpenIddict
 * Azure Services
 * DevOps & CI/CD
-* Distributed Systems
 * Software Architecture
 
 ## Learning & Certifications
