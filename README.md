@@ -42,6 +42,6 @@ Backend-focused Software Engineer with 3.8+ years of experience building web app
 
 ## Learning & Certifications
 
-* Microsoft Backend Professional Certificate (In Progress)
+* Microsoft Backend Professional Certificate
 * Azure Fundamentals (AZ-900)(In Progress)
 * AI Skills Fest Participant
