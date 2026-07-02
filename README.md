@@ -2,7 +2,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-lucianocastillo.net-blue?style=for-the-badge)](https://lucianocastillo.net)
 
-Backend-focused Software Engineer with 3.8+ years of experience building web applications and APIs with C# and .NET.
+Backend-focused Software Engineer building web applications and APIs with C# and .NET.
 
 ## Tech Stack
 
