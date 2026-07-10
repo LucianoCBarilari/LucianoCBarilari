@@ -32,14 +32,6 @@ Backend-focused Software Engineer building web applications and APIs with C# and
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-## Current Focus
-
-* Identity & Access Management
-* OpenIddict
-* Azure Services
-* DevOps & CI/CD
-* Software Architecture
-
 ## Learning & Certifications
 
 * Microsoft Backend Professional Certificate
