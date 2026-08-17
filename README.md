@@ -35,5 +35,4 @@ Backend-focused Software Engineer building web applications and APIs with C# and
 ## Learning & Certifications
 
 * Microsoft Backend Professional Certificate
-* Azure Fundamentals (AZ-900)(In Progress)
 * AI Skills Fest Participant
